@@ -1,0 +1,4 @@
+abel    /c/abel.cdx
+kain    /c/kain.cdx
+deckard /s/deckard.cdx
+nisse   /c/nisse.cdx

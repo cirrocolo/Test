@@ -1,0 +1,5 @@
+Skicka första kolumnen i groups.txt till en test_stub om svaret blir:
+"Dummy text
+
+Group was not found."
+ska första kolumnen läggas till @missing som sedan skrivs ut.

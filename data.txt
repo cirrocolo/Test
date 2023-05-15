@@ -1,0 +1,7 @@
+stnis/hard,45,english,IGNORE,,,35
+stnis/jonas,45,swedish,IGNORE,,,31
+stnis/amir,33,indian,IGNORE,,,12
+stnis/joe,25,english,IGNORE,,,5
+stnis/jill,25,english,IGNORE,,,1
+stnis/sloan,65,english,IGNORE,,,3
+Account Unknown,20,french,IGNORE,,,4
