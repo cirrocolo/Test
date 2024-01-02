@@ -8,5 +8,6 @@ if len(sys.argv) > 1:
 
 def snake(s):
     if s == 'snake' : print ("Snakes on a plane!")
+    else : print ("No snakes here!")
 
 snake(s)
